@@ -1,6 +1,6 @@
 Name:		texlive-expex-acro
 Version:	63319
-Release:	1
+Release:	2
 Summary:	Wrapper for the expex package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expex-acro
