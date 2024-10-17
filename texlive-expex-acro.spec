@@ -3,7 +3,7 @@ Version:	68046
 Release:	1
 Summary:	Wrapper for the expex package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/expex-acro
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/expex-acro
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expex-acro.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/expex-acro.doc.r%{version}.tar.xz
